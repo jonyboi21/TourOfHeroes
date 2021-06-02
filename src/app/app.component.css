@@ -1,0 +1,14 @@
+.Menu{
+    padding: 40px;
+}
+h1{
+    padding-left: 50%;
+}
+.container{
+    display:flex;
+    justify-content:center;
+    overflow:hidden;
+    font-family:'Nanum Gothic', sans-serif;
+    perspective:700px;
+    background:beige;
+}
